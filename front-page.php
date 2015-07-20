@@ -9,9 +9,7 @@
                 </div>
                 <div class="col-md-8 white">
                     <h2 class="font-amatic">O que é?</h2>
-                    <p>O Marco Civil da Internet, Lei 12.965 de 23 de abril de 14, que estabelece princípios, garantias, direitos e deveres dos
-                        usuários da Internet no Brasil, é uma lei construída de forma colaborativa entre Governo e sociedade
-                    utilizando a internet como plataforma de debate.</p>
+                    <p>Teste de texto texturizado para testemunho do tratado ao molho tártaro. </p>
                 </div>
             </div>
         </div>
